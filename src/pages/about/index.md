@@ -7,7 +7,7 @@ Der Autor:
 
 Dieser Blog wird vom Autor mit dem Pseudonym *Impugnaris* betrieben.
 
-Der Blog entstand aus einer Überlegung, neue Technologien der Webentwicklung auszuprobieren. Ich verwende ein *headless CMS* von ***Netlify*** (nein, das ist kein Video-Streaming Anbieter der auch Musik abspielen kann) im Zusammenspiel mit ***Gatsby*** als *progressive web Framework.*
+Der Blog entstand aus einer Überlegung, neue Technologien der Webentwicklung auszuprobieren. Ich verwende ein *headless CMS* von ***Netlify***  im Zusammenspiel mit ***Gatsby*** als *progressive web Framework.*
 
 > Ich hatte die Überlegung, Spielern sämtliche Fahrzeuge aus dem Spiel vorzustellen, die sie sonst vielleicht nie fahren würden.
 
