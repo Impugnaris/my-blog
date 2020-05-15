@@ -1,24 +1,18 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: Über diesen Blog
 ---
-### Shade-grown coffee
+Der Autor:
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Dieser Blog wird vom Autor mit dem Pseudonym *Impugnaris* betrieben.
 
-### Single origin
+Der Blog entstand aus einer Überlegung, neue Technologien der Webentwicklung auszuprobieren. Ich verwende ein *headless CMS* von ***Netlify*** (nein, das ist kein Video-Streaming Anbieter der auch Musik abspielen kann) im Zusammenspiel mit ***Gatsby*** als *progressive web Framework.*
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+> Ich hatte die Überlegung, Spielern sämtliche Fahrzeuge aus dem Spiel vorzustellen, die sie sonst vielleicht nie fahren würden.
 
-### Sustainable farming
+Ich habe einige Fahrzeuge lieb gewonnen, die unter den 599X E, den Moslers und Agera RS des Spiels, eher untergehen. Es muss nicht immer X Klasse mit Leistungsindex 999 oder S2 mit 998 sein, es kann auch B 700 oder A 800 sein. Das maximale aus einem Fahrzeug herauszukitzeln mag zwar spaßig sein, macht das Fahrzeug aber nicht performant oder schnell, wenn es nicht nur um Aspekte des Geradeausfahrens geht. Ich möchte hier Autos vorstellen, die im kompetetiven Spiel mitmachen können, Fahrzeuge, die Spaß machen und dennoch für ihre Klasse aus der Konkurrenz hervorstechen. 
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Der Plan war, ein beliebiges Auto aus dem Fuhrpark auszuwählen, über die von mir erstelle Teststrecke zu jagen und erst einmal festzustellen, welche Aspekte stören mich am Fahrverhalten, was ist charakteristisch für dieses Auto und was gibt es zu verbessern um eine performante und konstante Leistung und Rundenzeit zu erreichen. 
 
-### Direct sourcing
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Das Tuning beschäftigt sich dabei nicht nur um das Einbauen der leistungsstärksten Komponenen, die das Spiel zu bieten hat, sondern der Abstimmung genau dieser Einbauteile. Darüber hinaus ist gerade die Feinabstimmung des Setups von Bedeutung um auch die letzten Zehntel auf der Strecke herauszukitzeln. Wenn du mehr lesen möchtest, klicke dich doch einfach durch die Webpage, viel Spaß!
