@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Gaming Blog - Forza Horizon 4 und mehr
-image: /img/banner_01.png
+title: Impugnaris
+image: /img/banner_03.png
 heading: Fahrzeugtests, Tunings, Designs und mehr
-subheading: Der Blog für Forza Fans
+subheading: Der Horizon Blog
 mainpitch:
   title: Inhalte der Website
   description: >-
