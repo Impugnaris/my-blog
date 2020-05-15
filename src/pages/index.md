@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Impugnaris
-image: /img/banner_03.png
+image: /img/banner_01.png
 heading: Fahrzeugtests, Tunings, Designs und mehr
 subheading: Der Horizon Blog
 mainpitch:
