@@ -21,7 +21,8 @@ intro:
     competitive-ready Builds bleibt nichts aus. Hier werden eigene Designs
     vorgestellt, aber auch Empfehlungen aus der FH4 Community vorgestellt. Du
     erhälst weitere Informationen über die Fahrzeuge und die Meinung vom Autor
-    über die Fahrbarkeit der Autos.
+    über die Fahrbarkeit der Autos. Weiter findest du hier Empehlungen für
+    knifflige Challenges oder Forzathon Events!
 main:
   heading: Great coffee with no compromises
   description: >
